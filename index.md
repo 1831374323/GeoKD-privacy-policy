@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**This Privacy Policy applies to the mobile application ("the App") developed and published by the developer.**
+**This Privacy Policy applies to the mobile application 《Geometry Kingdom》, developed and published by Kundongli (Hangzhou) Intelligent Technology Co., Ltd.**
 
 ## 1. Data Collection and Usage
 
@@ -45,8 +45,8 @@ We take appropriate measures to protect your data. All data transmission (if any
 ## 5. Contact
 
 If you have any questions about this Privacy Policy, please contact:  
-📧 **kundongli123@gmail.com**
-
+- 📧 **kundongli123@gmail.com**
+- 🌐 **https://www.kuntumtech.com**
 ---
 
 _Last updated: July 2025_
